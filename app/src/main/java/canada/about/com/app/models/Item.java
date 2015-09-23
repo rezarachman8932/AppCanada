@@ -1,7 +1,7 @@
 package canada.about.com.app.models;
 
 /**
- * Created by user on 22/9/2015.
+ * Created by reza on 22/9/2015.
  */
 public class Item {
 

@@ -16,7 +16,7 @@ import canada.about.com.app.R;
 import canada.about.com.app.models.Item;
 
 /**
- * Created by user on 22/9/2015.
+ * Created by reza on 22/9/2015.
  */
 public class ListAdapter extends BaseAdapter {
 
