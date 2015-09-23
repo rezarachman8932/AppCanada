@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-49a8fc420aed0c79973106f1b294f39eac19f278.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core-slh\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-3875fdf943633f5ed5cf1156b7244fb01add06b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.4\3b646ddbdac8a33fc45b64564011da81d23e4635\picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\picasso-2.3.4-dbef704392f2b5abea31ac0eedd49fb19d617c9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-1d680555450a2fd69c727d48d4877271634c4ea7.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.6.0\e32c6b4bee8b61f0de12b337c48df0f5df8caccc\okhttp-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e32c6b4bee8b61f0de12b337c48df0f5df8caccc">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\okhttp-1.6.0-9095d60cecd00beafcc80f738422fdb6b8bdd519.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-8fc7f67a6029575c553863789e5c31b09f146a09.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\1.6.0\375c2206eb7e52976955d0f8737be5e0ec9cf667\okhttp-urlconnection-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="375c2206eb7e52976955d0f8737be5e0ec9cf667">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-1.6.0-18df8540a7872413234bd97541fbfc672d57e3a7.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-0383c836ba16547e3b78d1225150086f733552b6.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-cf956da465eefc23785d8f44c6a7736bba7b995f.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-39e935946491b50f92f7965dc5a025cecb56c768.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\classes-326f9c45a6b09dfabc228d0689813cc78a493de3.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Android\AppCanada\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ad19d08efb9bfa6683b9d5180f3b772e8ab99f9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Projects\Android\AppCanada\app\build\intermediates\pre-dexed\debug\library-2.4.0-7dcc3ac4a30f386c51d9582e4504072021db0ad0.jar" />
+    </item>
+
+</items>
